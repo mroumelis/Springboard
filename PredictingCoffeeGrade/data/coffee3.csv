@@ -1,0 +1,151 @@
+,Country of Origin,Variety,Mean Altitude (m),Harvest Year,Processing Method,Moisture,Color,Coffee_Grade
+0,Other,Other,1200.0,2020,Natural / Dry,11.0,None,Specialty
+1,Other,SL28,1650.0,2019,Washed / Wet,11.0,Green,Specialty
+2,Colombia,Other,1800.0,2021,Washed / Wet,11.0,Green,Specialty
+3,Ethiopia,Other,2219.0,2020,Other,11.0,Green,Premium
+4,Colombia,Other,1650.0,2019,Pulped natural / honey,11.0,None,Specialty
+5,Ethiopia,Other,1800.0,2020,Washed / Wet,11.0,Green,Specialty
+6,Other,Other,1200.0,2020,Natural / Dry,11.5,Green,Premium
+7,Ethiopia,Other,2100.0,2020,Washed / Wet,12.0,Green,Premium
+8,Ethiopia,Other,2100.0,2020,Washed / Wet,12.0,Green,Premium
+9,Ethiopia,Other,2200.0,2020,Natural / Dry,10.0,Yellow-Green,Grade 3 or Lower
+10,Ethiopia,Other,2000.0,2019,Washed / Wet,10.0,Blue-Green,Specialty
+11,Ethiopia,Other,1950.0,2021,Washed / Wet,10.5,Blue-Green,Grade 3 or Lower
+12,Other,SL28,1276.0,2020,Washed / Wet,11.5,Green,Premium
+13,Other,Other,1300.0,2020,Natural / Dry,11.5,Green,Specialty
+14,Ethiopia,Other,2229.0,2021,Natural / Dry,8.6,Yellow-Green,Premium
+15,Other,Other,1040.0,2020,Washed / Wet,13.3,Blue-Green,Specialty
+16,Other,Other,1200.0,2019,Natural / Dry,10.0,None,Specialty
+17,Ethiopia,Other,1994.0,2019,Washed / Wet,10.0,Green,Premium
+18,Ethiopia,Other,1800.0,2020,Washed / Wet,11.0,Green,Specialty
+19,Other,Bourbon,1420.0,2020,Washed / Wet,13.5,Green,Specialty
+20,Ethiopia,Other,1950.0,2020,Washed / Wet,9.7,Green,Grade 3 or Lower
+21,Other,SL28,1700.0,2019,Washed / Wet,11.0,Green,Specialty
+22,Guatemala,Bourbon,1722.12,2021,Washed / Wet,10.9,Green,Premium
+23,Colombia,Caturra,1300.0,2020,Washed / Wet,11.0,Green,Premium
+24,Other,Other,1100.0,2019,Washed / Wet,0.0,Green,Specialty
+25,Colombia,Other,1400.0,2021,Washed / Wet,11.8,Blue-Green,Specialty
+26,Other,SL28,1450.0,2020,Washed / Wet,11.5,Green,Specialty
+27,Other,Other,1600.0,2019,Washed / Wet,11.0,Greenish,Premium
+28,Other,Other,1750.0,2021,Washed / Wet,11.5,Green,Premium
+29,Brazil,Other,1100.0,2021,Pulped natural / honey,11.5,Green,Premium
+30,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.6,Green,Premium
+31,Colombia,Caturra,442.0,2020,Washed / Wet,11.0,Green,Specialty
+32,Brazil,Catuai,1150.0,2020,Natural / Dry,11.5,Green,Premium
+33,Other,Caturra,1450.0,2021,Washed / Wet,11.0,Green,Specialty
+34,Guatemala,Caturra,1600.0,2020,Washed / Wet,10.6,Green,Premium
+35,Other,Bourbon,1666.0,2020,Washed / Wet,10.0,Green,Specialty
+36,Guatemala,Other,1600.0,2019,Washed / Wet,11.0,Greenish,Premium
+37,Colombia,Other,1750.0,2021,Washed / Wet,11.5,Green,Premium
+38,Colombia,Caturra,442.0,2021,Washed / Wet,11.5,Green,Premium
+39,Guatemala,Other,1800.0,2021,Washed / Wet,10.6,Green,Premium
+40,Guatemala,Other,1550.0,2020,Washed / Wet,12.0,Green,Premium
+41,Colombia,Caturra,442.0,2020,Washed / Wet,10.5,Green,Premium
+42,Other,Other,1350.0,2020,Washed / Wet,11.5,Green,Premium
+43,Guatemala,Bourbon,1500.0,2020,Natural / Dry,11.0,Green,Premium
+44,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.4,Green,Premium
+45,Ethiopia,Other,1943.0,2020,Washed / Wet,11.0,Green,Specialty
+46,Colombia,Caturra,1700.0,2019,Washed / Wet,12.0,Blue-Green,Premium
+47,Guatemala,Bourbon,1500.0,2020,Natural / Dry,11.0,Green,Premium
+48,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.5,Green,Premium
+49,Guatemala,Bourbon,1400.0,2020,Natural / Dry,11.0,Green,Premium
+50,Other,Other,1000.0,2019,Natural / Dry,11.0,Green,Specialty
+51,Brazil,Other,1020.0,2021,Natural / Dry,11.0,Green,Specialty
+52,Brazil,Catuai,1100.0,2020,Natural / Dry,11.5,Green,Specialty
+53,Other,SL28,1750.0,2020,Washed / Wet,11.0,Green,Premium
+54,Other,Catuai,1250.0,2021,Washed / Wet,10.4,Green,Grade 3 or Lower
+55,Other,SL28,1700.0,2019,Washed / Wet,12.0,Green,Premium
+56,Other,Bourbon,1200.0,2019,Washed / Wet,11.0,Green,Specialty
+57,Other,Bourbon,1800.0,2020,Washed / Wet,10.0,None,Grade 3 or Lower
+58,Guatemala,Bourbon,1400.0,2020,Washed / Wet,11.5,Green,Specialty
+59,Other,SL28,1800.0,2021,Washed / Wet,11.0,Green,Specialty
+60,Guatemala,Bourbon,1600.0,2021,Washed / Wet,11.5,Green,Premium
+61,Guatemala,Bourbon,1600.0,2020,Natural / Dry,10.0,Green,Premium
+62,Brazil,Catuai,1000.0,2020,Pulped natural / honey,11.5,Green,Premium
+63,Colombia,Caturra,1650.0,2021,Washed / Wet,11.5,Green,Specialty
+64,Other,Bourbon,1300.0,2021,Washed / Wet,11.6,Green,Specialty
+65,Brazil,Other,1100.0,2020,Natural / Dry,11.5,Blue-Green,Premium
+66,Guatemala,Bourbon,982.5,2020,Washed / Wet,10.3,Green,Premium
+67,Costa Rica,Caturra,1850.0,2021,Washed / Wet,9.9,Green,Premium
+68,Other,Catuai,1100.0,2020,Washed / Wet,11.0,Green,Premium
+69,Guatemala,Bourbon,1500.0,2020,Natural / Dry,10.0,Green,Premium
+70,Colombia,Caturra,1700.0,2019,Washed / Wet,12.0,Green,Specialty
+71,Other,Other,1040.0,2020,Washed / Wet,11.9,Blue-Green,Specialty
+72,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.5,Green,Grade 3 or Lower
+73,Guatemala,Bourbon,1400.0,2020,Natural / Dry,10.0,Green,Premium
+74,Guatemala,Bourbon,1800.0,2020,Natural / Dry,11.0,Green,Premium
+75,Other,Caturra,1550.0,2020,Washed / Wet,11.5,Green,Specialty
+76,Costa Rica,Caturra,1850.0,2021,Washed / Wet,10.0,Green,Premium
+77,Other,Other,1420.0,2021,Pulped natural / honey,10.0,Green,Specialty
+78,Costa Rica,Caturra,1850.0,2020,Washed / Wet,10.0,Green,Specialty
+79,Guatemala,Bourbon,1500.0,2020,Natural / Dry,10.0,Green,Premium
+80,Guatemala,Bourbon,1500.0,2020,Natural / Dry,10.0,Green,Premium
+81,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.8,Green,Premium
+82,Colombia,Caturra,1700.0,2019,Washed / Wet,11.5,Green,Premium
+83,Other,Other,1400.0,2020,Washed / Wet,11.9,Blue-Green,Premium
+84,Other,Caturra,1700.0,2020,Washed / Wet,12.3,Green,Grade 3 or Lower
+85,Brazil,Other,900.0,2020,Natural / Dry,11.0,Blue-Green,Specialty
+86,Brazil,Other,1100.0,2021,Natural / Dry,11.5,Blue-Green,Premium
+87,Colombia,Caturra,1574.0,2020,Washed / Wet,10.5,Greenish,Specialty
+88,Costa Rica,Caturra,1850.0,2021,Washed / Wet,9.9,Green,Premium
+89,Costa Rica,Caturra,1850.0,2021,Washed / Wet,9.9,Green,Premium
+90,Other,Other,1200.0,2020,Washed / Wet,12.0,Green,Grade 3 or Lower
+91,Other,Bourbon,1350.0,2021,Washed / Wet,11.6,Green,Specialty
+92,Guatemala,Caturra,1650.0,2021,Washed / Wet,9.9,Green,Premium
+93,Other,Other,1200.0,2020,Washed / Wet,10.5,Green,Specialty
+94,Brazil,Other,1100.0,2021,Pulped natural / honey,12.0,Green,Premium
+95,Brazil,Other,1250.0,2021,Natural / Dry,11.5,Yellow-Green,Premium
+96,Guatemala,Other,1550.0,2020,Washed / Wet,12.0,Green,Premium
+97,Other,Caturra,1200.0,2021,Washed / Wet,10.5,Yellow-Green,Specialty
+98,Brazil,Catuai,1150.0,2020,Natural / Dry,11.5,Green,Premium
+99,Other,Bourbon,1350.0,2020,Washed / Wet,11.3,Green,Specialty
+100,Other,Other,1000.0,2019,Natural / Dry,11.0,Green,Specialty
+101,Brazil,Other,1020.0,2021,Natural / Dry,11.0,Green,Specialty
+102,Brazil,Catuai,1100.0,2020,Natural / Dry,11.5,Green,Specialty
+103,Other,SL28,1750.0,2020,Washed / Wet,11.0,Green,Premium
+104,Other,Catuai,1250.0,2021,Washed / Wet,10.4,Green,Grade 3 or Lower
+105,Other,SL28,1700.0,2019,Washed / Wet,12.0,Green,Premium
+106,Other,Bourbon,1200.0,2019,Washed / Wet,11.0,Green,Specialty
+107,Other,Bourbon,1800.0,2020,Washed / Wet,10.0,None,Grade 3 or Lower
+108,Guatemala,Bourbon,1400.0,2020,Washed / Wet,11.5,Green,Specialty
+109,Other,SL28,1800.0,2021,Washed / Wet,11.0,Green,Specialty
+110,Guatemala,Bourbon,1600.0,2021,Washed / Wet,11.5,Green,Premium
+111,Guatemala,Bourbon,1600.0,2020,Natural / Dry,10.0,Green,Premium
+112,Brazil,Catuai,1000.0,2020,Pulped natural / honey,11.5,Green,Premium
+113,Colombia,Caturra,1650.0,2021,Washed / Wet,11.5,Green,Specialty
+114,Other,Bourbon,1300.0,2021,Washed / Wet,11.6,Green,Specialty
+115,Brazil,Other,1100.0,2020,Natural / Dry,11.5,Blue-Green,Premium
+116,Guatemala,Bourbon,982.5,2020,Washed / Wet,10.3,Green,Premium
+117,Costa Rica,Caturra,1850.0,2021,Washed / Wet,9.9,Green,Premium
+118,Costa Rica,Caturra,1850.0,2021,Washed / Wet,9.9,Green,Premium
+119,Guatemala,Bourbon,1500.0,2020,Natural / Dry,10.0,Green,Premium
+120,Colombia,Caturra,1700.0,2019,Washed / Wet,12.0,Green,Specialty
+121,Other,Other,1040.0,2020,Washed / Wet,11.9,Blue-Green,Specialty
+122,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.5,Green,Grade 3 or Lower
+123,Guatemala,Bourbon,1400.0,2020,Natural / Dry,10.0,Green,Premium
+124,Guatemala,Bourbon,1800.0,2020,Natural / Dry,11.0,Green,Premium
+125,Other,Caturra,1550.0,2020,Washed / Wet,11.5,Green,Specialty
+126,Costa Rica,Caturra,1850.0,2021,Washed / Wet,10.0,Green,Premium
+127,Other,Other,1420.0,2021,Pulped natural / honey,10.0,Green,Specialty
+128,Costa Rica,Caturra,1850.0,2020,Washed / Wet,10.0,Green,Specialty
+129,Guatemala,Bourbon,1500.0,2020,Natural / Dry,10.0,Green,Premium
+130,Other,Caturra,1450.0,2020,Washed / Wet,11.0,Green,Specialty
+131,Guatemala,Caturra,1600.0,2021,Washed / Wet,10.8,Green,Premium
+132,Colombia,Caturra,1700.0,2019,Washed / Wet,11.5,Green,Premium
+133,Other,Other,1400.0,2020,Washed / Wet,11.9,Blue-Green,Premium
+134,Other,Caturra,1700.0,2020,Washed / Wet,12.3,Green,Grade 3 or Lower
+135,Brazil,Other,900.0,2020,Natural / Dry,11.0,Blue-Green,Specialty
+136,Brazil,Other,1100.0,2021,Natural / Dry,11.5,Blue-Green,Premium
+137,Colombia,Caturra,1574.0,2020,Washed / Wet,10.5,Greenish,Specialty
+138,Costa Rica,Caturra,1850.0,2021,Washed / Wet,9.9,Green,Premium
+139,Other,Catuai,1500.0,2019,Washed / Wet,10.0,Green,Specialty
+140,Other,Other,1200.0,2020,Washed / Wet,12.0,Green,Grade 3 or Lower
+141,Other,Bourbon,1350.0,2021,Washed / Wet,11.6,Green,Specialty
+142,Guatemala,Caturra,1650.0,2021,Washed / Wet,9.9,Green,Premium
+143,Other,Other,1200.0,2020,Washed / Wet,10.5,Green,Specialty
+144,Brazil,Other,1100.0,2021,Pulped natural / honey,12.0,Green,Premium
+145,Brazil,Other,1250.0,2021,Natural / Dry,11.5,Yellow-Green,Premium
+146,Guatemala,Other,1550.0,2020,Washed / Wet,12.0,Green,Premium
+147,Other,Caturra,1200.0,2021,Washed / Wet,10.5,Yellow-Green,Specialty
+148,Brazil,Catuai,1150.0,2020,Natural / Dry,11.5,Green,Premium
+149,Brazil,Catuai,1150.0,2020,Natural / Dry,11.5,Green,Premium
